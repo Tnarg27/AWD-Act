@@ -1,5 +1,5 @@
-# IT0043L (Web Design with Client-Side Scripting) - Final Project
+# IT0063L ACTIVITY
 
 Created by: Grant Paul Arnel P. Pamor
 
-Section: TX02# AWD-Act
+Section: TB22# AWD-Act
